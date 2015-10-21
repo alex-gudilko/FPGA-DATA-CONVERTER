@@ -12,7 +12,7 @@
 -- Description: 
 --
 -- <receive data in integer form and form BCD code for UART transmitter>
--- BCD data format is commonly used to show data on LCD or 7-segment disolays
+-- BCD data format is commonly used to show data on LCD or 7-segment displays
 --
 -- Targeted device: <Family::ProASIC3> <Die::M1A3P400> <Package::208 PQFP>
 --

@@ -1,7 +1,7 @@
 --------------------------------------------------------------------------------
 -- Company: <Mehatronika>
--- Author: <Aleksandr Gudilko>
--- Email: gudilkoalex@gmail.com
+-- Author: 	<Aleksandr Gudilko>
+-- Email: 	gudilkoalex@gmail.com
 --
 -- File: Decoder_1hot_3-to-8.vhd
 -- File history:

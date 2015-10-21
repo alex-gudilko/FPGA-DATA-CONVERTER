@@ -1,7 +1,7 @@
 --------------------------------------------------------------------------------
 -- Company: <Mehatronika>
--- Author: <Aleksandr Gudilko>
--- Email: gudilkoalex@gmail.com
+-- Author: 	<Aleksandr Gudilko>
+-- Email: 	gudilkoalex@gmail.com
 --
 -- File: PENDANT_DECODER.vhd
 -- File history:
@@ -11,7 +11,7 @@
 --
 -- Description: 
 --
--- <Module decodes pendant signals and set flags to PMAC>
+-- <Module decodes pendant signals and set flags to External data controller>
 --
 -- Targeted device: <Family::ProASIC3> <Die::M1A3P400> <Package::208 PQFP>
 --

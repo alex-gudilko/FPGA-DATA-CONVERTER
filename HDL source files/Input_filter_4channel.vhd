@@ -1,9 +1,11 @@
 ------------------------------------------------------------------------
--- Author: <Aleksandr Gudilko>
--- Email: gudilkoalex@gmail.com
--- Input_filter_4channel.vhd
+-- Author: 	Aleksandr Gudilko
+-- Email: 	gudilkoalex@gmail.com
+--
+-- File:Input_filter_4channel.vhd
 --
 -- Description:
+--
 -- General-purpose input filter for FPGA signals (Majority filter)
 -- Eliminates line "ringing" and create stable output for high speed logic.
 ------------------------------------------------------------------------
